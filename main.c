@@ -10,7 +10,7 @@
 
 
 #include"Paula.h"
-
+#include"Peter.h"
 
 int main()
 {
@@ -27,5 +27,7 @@ int main()
 
 
 	Paulafunc();
+
+	Peterfunc();
 
 }
