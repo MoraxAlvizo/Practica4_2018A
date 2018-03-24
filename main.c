@@ -5,6 +5,10 @@
 #include"mario.h"
 #include"maya.h"
 #include"carlos.h"
+#include"benja_r.h"
+#include"Noe.h"
+#include"Uriel.h"
+#include"Alexis.h"
 
 int main()
 {
@@ -13,4 +17,8 @@ int main()
 	mariofunc();
 	mayafunc();
 	carlosfunc();
+	benjafunc();
+	Noefunc();
+	urielfunc();
+	Alexisfunc();
 }
