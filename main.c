@@ -3,5 +3,5 @@
 
 int main()
 {
-	omarfunc(1);
+	omarfunc();
 }
