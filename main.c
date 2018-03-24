@@ -6,6 +6,8 @@
 
 #include"josue.h"
 
+#include"rey.h"
+
 int main()
 {
 	omarfunc();
@@ -14,5 +16,9 @@ int main()
 
 	josuefunc();
 
+ 	reyfunc();
+
 }
+
+
 
