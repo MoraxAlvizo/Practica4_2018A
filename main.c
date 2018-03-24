@@ -9,6 +9,13 @@
 #include"Noe.h"
 #include"Uriel.h"
 #include"Alexis.h"
+#include"juanpi.h"
+#include"Ivan.h"
+#include"DavidG.h"
+#include"angel.h"
+#include"Paula.h"
+#include"Peter.h"
+
 
 int main()
 {
@@ -21,4 +28,12 @@ int main()
 	Noefunc();
 	urielfunc();
 	Alexisfunc();
+	davidgfunc();
+	angelfunc();
+	ivanfunc();
+	Paulafunc();
+	Peterfunc();
+	juanpifunc();
+
 }
+
