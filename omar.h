@@ -1,11 +1,11 @@
-#ifndef MAYA_H_INCLUDE
-#define MAYA_H_INCLUDE
+#ifndef OMAR_H_INCLUDE
+#define OMAR_H_INCLUDE
 
 #include <stdio.h>
 
-void mayafunc()
+void omarfunc()
 {
-	printf("Soy MAYA :) \n");
+	printf("Soy OMAR :) \n");
 }
 
 #endif
