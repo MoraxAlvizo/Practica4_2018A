@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 #include"omar.h"
-<<<<<<< HEAD
 #include"leo.h"
 #include"mario.h"
 #include"maya.h"
