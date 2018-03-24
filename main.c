@@ -18,6 +18,7 @@
 #include"jorge.h"
 #include"josue.h"
 #include"rey.h"
+#include"saul.h"
 
 int main()
 {
@@ -39,6 +40,7 @@ int main()
 	jorgefunc();
 	josuefunc();
  	reyfunc();
+	saulfunc();
 }
 
 
