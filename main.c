@@ -1,11 +1,76 @@
 #include<stdio.h>
+
 #include"omar.h"
 #include"ARACELI.h"
+#include"alan.h"
+#include"Estela.h"
+#include"Farfan.h"
+#include"calvin.h"	
+#include"mayra.h"
+#include"JONATAN.h"
+#include"Daniel.h"
+#include"paola.h"
+#include"ARACELI.h"
+#include"caroM.h"
+#include"agustin.h"
+#include"Alex.h"
+#include"leo.h"
+#include"mario.h"
+#include"maya.h"
+#include"carlos.h"
+#include"benja_r.h"
+#include"Noe.h"
+#include"Uriel.h"
+#include"Alexis.h"
+#include"juanpi.h"
+#include"Ivan.h"
+#include"DavidG.h"
+#include"angel.h"
+#include"Paula.h"
+#include"Peter.h"
+#include"jorge.h"
+#include"josue.h"
+#include"rey.h"
+#include"saul.h"
+#include"andres.h"
+#include"pedro.h"
+
 
 int main() 
-	{ 
+{ 
 	omarfunc();
-	ARACELIfunc();
-       
-	}
 
+	ARACELIfunc();
+        alanfunc();
+	Estelafunc();
+	Farfanfunc();
+        calvinfunc();
+	mayrafunc();
+	jonatanfunc();
+	Danielfunc();
+        paolafunc();
+	ARACELIfunc();
+	caroMfunc();
+	agustinfunc();
+	omarfunc();
+	leofunc();
+	mariofunc();
+	mayafunc();
+	carlosfunc();
+	benjafunc();
+	Noefunc();
+	urielfunc();
+	Alexisfunc();
+	davidgfunc();
+	angelfunc();
+	ivanfunc();
+	Paulafunc();
+	Peterfunc();
+	juanpifunc();
+	jorgefunc();
+	josuefunc();
+ 	reyfunc();
+	saulfunc();
+	andresfunc();
+	pedrofunc();
+}
