@@ -4,6 +4,7 @@
 #include"Estela.h"
 #include"Farfan.h"
 #include"calvin.h"	
+#include"mayra.h"
 
 int main()
 {
@@ -12,4 +13,5 @@ int main()
 	Estelafunc();
 	Farfanfunc();
         calvinfunc();
+	mayrafunc();
 }
