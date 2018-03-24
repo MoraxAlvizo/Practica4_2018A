@@ -7,6 +7,7 @@
 #include"mayra.h"
 #include"JONATAN.h"
 #include"Daniel.h"
+#include"paola.h"
 
 int main()
 {
@@ -18,4 +19,5 @@ int main()
 	mayrafunc();
 	jonatanfunc();
 	Danielfunc();
+        paolafunc();
 }
