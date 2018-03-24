@@ -15,7 +15,9 @@
 #include"angel.h"
 #include"Paula.h"
 #include"Peter.h"
-
+#include"jorge.h"
+#include"josue.h"
+#include"rey.h"
 
 int main()
 {
@@ -34,6 +36,9 @@ int main()
 	Paulafunc();
 	Peterfunc();
 	juanpifunc();
-
+	jorgefunc();
+	josuefunc();
+ 	reyfunc();
 }
+
 
