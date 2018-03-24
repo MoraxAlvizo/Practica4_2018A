@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 #include"omar.h"
+<<<<<<< HEAD
 #include"leo.h"
 #include"mario.h"
 #include"maya.h"
@@ -19,6 +20,7 @@
 #include"josue.h"
 #include"rey.h"
 #include"saul.h"
+#include"andres.h"
 
 int main()
 {
@@ -41,6 +43,8 @@ int main()
 	josuefunc();
  	reyfunc();
 	saulfunc();
+	andresfunc();
+
 }
 
 
