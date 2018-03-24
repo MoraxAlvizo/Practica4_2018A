@@ -9,6 +9,9 @@
 #include"Daniel.h"
 #include"paola.h"
 #include"ARACELI.h"
+#include"caroM.h"
+#include"agustin.h"
+#include"Alex.h"
 
 int main() 
 { 
@@ -22,6 +25,8 @@ int main()
 	Danielfunc();
         paolafunc();
 	ARACELIfunc();
- }
-
+	caroMfunc();
+	agustinfunc();
+	Alexfunc();
+}
 
