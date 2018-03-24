@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include"omar.h"
+#include"juanpi.h"
 
 #include"Ivan.h"
 
@@ -30,4 +31,8 @@ int main()
 
 	Peterfunc();
 
+
+
+	juanpifunc();
 }
+
