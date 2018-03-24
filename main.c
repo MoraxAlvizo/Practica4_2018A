@@ -8,9 +8,10 @@
 #include"JONATAN.h"
 #include"Daniel.h"
 #include"paola.h"
+#include"ARACELI.h"
 
-int main()
-{
+int main() 
+{ 
 	omarfunc();
 	alanfunc();
 	Estelafunc();
@@ -20,4 +21,7 @@ int main()
 	jonatanfunc();
 	Danielfunc();
         paolafunc();
-}
+	ARACELIfunc();
+ }
+
+
