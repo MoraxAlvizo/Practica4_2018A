@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include"omar.h"
-#include"angel.h"
-
+#include"juanpi.h"
 int main()
 {
 	omarfunc();
-	angelfunc();
+	juanpifunc();
 }
