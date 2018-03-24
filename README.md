@@ -1,2 +1,3 @@
 # Practica4_2018A
-Ultima practica de git, Feliz navidad
+Ultima practica de git
+
