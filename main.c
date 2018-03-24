@@ -27,6 +27,6 @@ int main()
 	ARACELIfunc();
 	caroMfunc();
 	agustinfunc();
-	Alexfunc();
+	omarfunc();
 }
 
