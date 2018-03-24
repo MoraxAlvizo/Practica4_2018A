@@ -3,6 +3,7 @@
 #include"alan.h"
 #include"Estela.h"
 #include"Farfan.h"
+#include"calvin.h"	
 
 int main()
 {
@@ -10,5 +11,5 @@ int main()
 	alanfunc();
 	Estelafunc();
 	Farfanfunc();
-
+        calvinfunc();
 }
